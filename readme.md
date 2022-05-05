@@ -1,3 +1,7 @@
+# Aplicacion de uso de pruebas unitarias
+
+Haciendo uso de pruebas unitarias para tener software de calidad.
+
 # Herramientas
 
 Jest como Framework para hacer pruebas de nuestra aplicacion de Backend con nodejs ([https://jestjs.io/](https://jestjs.io/))).
